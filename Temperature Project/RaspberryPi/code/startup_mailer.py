@@ -1,3 +1,5 @@
+#Credits: http://cagewebdev.com/raspberry-pi-sending-emails-on-boot/
+#Sending mail at startup
 import subprocess
 import smtplib
 import socket
